@@ -73,9 +73,10 @@ Podemos suspender o eliminar su acceso a los servicios en la nube (cuenta de usu
 
 ## 9. Ley Aplicable y Jurisdicción
 Estos Términos se regirán e interpretarán de acuerdo con las leyes federales de los **Estados Unidos Mexicanos**.
-Para la resolución de cualquier controversia o disputa legal relacionada con este Servicio, las partes renuncian expresamente a cualquier otro fuero que pudiera corresponderles por razón de sus domicilios presentes o futuros, y aceptan someterse a la jurisdicción exclusiva de los tribunales competentes en la ciudad de **Xalapa, Veracruz, México**.
+Para la resolución de cualquier controversia o disputa legal relacionada con este Servicio, las partes renuncian expresamente a cualquier otro fuero que pudiera corresponderles por razón de sus domicilios presentes o futuros, y aceptan someterse a la jurisdicción exclusiva de los tribunales competentes en ** Veracruz, México**.
 
 ---
 
 **Contacto:**
 Si tiene preguntas sobre estos Términos, puede contactarnos en: trazoappsupp@gmail.com
+
