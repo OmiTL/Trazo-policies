@@ -1,51 +1,21 @@
-# Políticas Legales - Billeteo
+# Legal y Privacidad - Trazo
 
-Este repositorio contiene las políticas legales oficiales para la aplicación móvil **Billeteo** - Gestión Financiera Personal.
+Bienvenido al centro de documentación legal de **Trazo**, la aplicación de gestión financiera personal desarrollada por Omar Trejo.
 
-## 📄 Documentos Disponibles
+Aquí encontrará toda la información relacionada con el uso de la aplicación y el tratamiento de sus datos.
 
-### 🔒 [Política de Privacidad](privacy-policy.md)
-Describe cómo recopilamos, usamos y protegemos la información de los usuarios de Billeteo.
+## Documentos Disponibles
 
-**URL Pública:** `https://raw.githubusercontent.com/[TU-USUARIO]/billeteo-policies/main/privacy-policy.md`
+### 🔒 [Política de Privacidad](./privacy-policy.html)
+Describe qué datos recopilamos (y cuáles no), cómo los protegemos y cómo puede ejercer sus derechos ARCO o solicitar la eliminación de su cuenta.
+* *Lectura obligatoria para entender cómo protegemos sus datos financieros.*
 
-### 📜 [Términos de Servicio](terms-of-service.md)
-Establece los términos y condiciones para el uso de la aplicación Billeteo.
-
-**URL Pública:** `https://raw.githubusercontent.com/[TU-USUARIO]/billeteo-policies/main/terms-of-service.md`
-
-## 📱 Sobre Billeteo
-
-Billeteo es una aplicación móvil de gestión financiera personal desarrollada con Flutter que permite a los usuarios:
-
-- 💰 Registrar y categorizar transacciones
-- 🏦 Gestionar múltiples cuentas financieras  
-- 🎯 Crear y seguir metas de ahorro
-- 📊 Generar reportes y análisis
-- 📤 Exportar e importar datos
-- 🎨 Personalizar categorías y configuraciones
-
-## 🔄 Actualizaciones
-
-Las políticas se actualizan según sea necesario para cumplir con:
-- Regulaciones de Google Play Store
-- Leyes de protección de datos (GDPR, CCPA)
-- Nuevas funcionalidades de la aplicación
-- Mejores prácticas de la industria
-
-## 📞 Contacto
-
-Para consultas sobre estas políticas:
-- **Email:** support@billeteo.com
-- **Ubicación:** México
-
-## ⚖️ Información Legal
-
-- **Última actualización:** [FECHA]
-- **Versión:** 1.0
-- **Jurisdicción:** México
-- **Cumplimiento:** GDPR, CCPA, Google Play Policies
+### 📄 [Términos y Condiciones de Uso](./terms-of-service.html)
+El contrato legal entre usted y el desarrollador. Establece las reglas de uso, limitaciones de responsabilidad y derechos de propiedad intelectual.
 
 ---
 
-© 2024 Billeteo. Todos los derechos reservados.
+**Contacto y Soporte:**
+Si tiene dudas sobre estos documentos, contáctenos en: [trazoappsupp@gmail.com](mailto:trazoappsupp@gmail.com)
+
+© 2025 Omar Trejo. Veracruz, México.
