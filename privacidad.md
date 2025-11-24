@@ -1,23 +1,22 @@
 # Política de Privacidad
 
-**Aplicación:** Trazo  
-**Desarrollador:** Omar Trejo  
-**Última actualización:** 23 de noviembre de 2025  
+**Aplicación:** Trazo
+**Desarrollador:** DataSaints (Omar Trejo)
+**Última actualización:** 23 de noviembre de 2025
 **Versión:** 1.0
 
 ---
 
 ## 1. Introducción
 
-Trazo ("nosotros", "nuestro", "la aplicación" o "el servicio") es una aplicación móvil de gestión financiera personal desarrollada en México. Esta Política de Privacidad tiene como objetivo informarle de manera clara y transparente cómo recopilamos, utilizamos, almacenamos y protegemos su información personal.
+Trazo ("nosotros", "nuestro", "la aplicación" o "el servicio") es una aplicación móvil de gestión financiera personal desarrollada en México por **DataSaints**. Esta Política de Privacidad tiene como objetivo informarle de manera clara y transparente cómo recopilamos, utilizamos, almacenamos y protegemos su información personal.
 
 Al descargar, instalar o utilizar Trazo, usted acepta las prácticas descritas en este documento.
 
 **Responsable del Tratamiento de Datos:**
-* **Responsable:** Omar Trejo
+* **Identidad:** Omar Trejo (operando comercialmente como **DataSaints**)
 * **Ubicación:** Veracruz, México
 * **Contacto Legal y Soporte:** trazoappsupp@gmail.com
-
 
 ---
 
@@ -90,7 +89,7 @@ Usted tiene derecho a eliminar su cuenta y todos los datos asociados en cualquie
 
 1.  **Desde la App:** Vaya a *Configuración > Perfil > Eliminar Cuenta*.
 2.  **Vía Web (Sin reinstalar la app):** Si ya no tiene acceso a la aplicación, puede solicitar la baja de sus datos completando el siguiente formulario oficial:
-    https://forms.gle/kvz9Q3NQg8VHvqEJ7
+    👉 https://forms.gle/kvz9Q3NQg8VHvqEJ7
 
 *Al eliminar su cuenta, se borran sus datos de identidad en nuestros servidores. Los datos financieros locales se eliminan al desinstalar la aplicación.*
 
@@ -107,11 +106,6 @@ Trazo no está diseñada ni dirigida a menores de 13 años. No recopilamos inten
 ## 8. Publicidad
 Actualmente, **Trazo no muestra publicidad de terceros**.
 Nos reservamos el derecho de incluir publicidad en versiones futuras. De hacerlo, actualizaremos esta política para informar sobre los proveedores de anuncios y el manejo de datos correspondiente.
-
----
-
-## 9. Cambios a la Política
-Podemos actualizar esta política para reflejar cambios en nuestra aplicación o requisitos legales. La versión más reciente siempre estará disponible en este enlace. El uso continuado de la aplicación implica la aceptación de dichos cambios.
 
 ---
 
