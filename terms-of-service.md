@@ -1,208 +1,81 @@
-# Términos de Servicio - Billeteo
+# Términos y Condiciones de Uso
 
-**Fecha de última actualización:** [FECHA]
-
-## 1. Aceptación de los Términos
-
-Al descargar, instalar o usar la aplicación Billeteo ("la Aplicación"), usted acepta estar sujeto a estos Términos de Servicio ("Términos"). Si no está de acuerdo con estos términos, no use la Aplicación.
-
-**Desarrollador:** [NOMBRE_DESARROLLADOR]  
-**Ubicación:** México  
-**Contacto:** support@billeteo.com
-
-## 2. Descripción del Servicio
-
-Billeteo es una aplicación móvil de gestión financiera personal que permite a los usuarios:
-- Registrar y categorizar transacciones financieras
-- Gestionar múltiples cuentas financieras
-- Crear y seguir metas de ahorro
-- Generar reportes y análisis financieros
-- Exportar e importar datos financieros
-- Personalizar categorías y configuraciones
-
-## 3. Elegibilidad y Registro
-
-### 3.1 Edad Mínima
-Debe tener al menos 13 años para usar esta Aplicación. Si es menor de 18 años, debe tener el consentimiento de sus padres o tutores legales.
-
-### 3.2 Cuenta de Usuario
-- Puede crear una cuenta usando Google Sign-In o usar la aplicación localmente
-- Es responsable de mantener la confidencialidad de su cuenta
-- Debe proporcionar información precisa y actualizada
-- Es responsable de todas las actividades que ocurran bajo su cuenta
-
-## 4. Uso Aceptable
-
-### 4.1 Usos Permitidos
-- Gestionar sus finanzas personales de manera responsable
-- Utilizar todas las funcionalidades según su propósito diseñado
-- Exportar sus propios datos para respaldo personal
-
-### 4.2 Usos Prohibidos
-- Usar la Aplicación para actividades ilegales o fraudulentas
-- Intentar acceder a cuentas de otros usuarios
-- Realizar ingeniería inversa, descompilar o desensamblar la Aplicación
-- Transmitir virus, malware o código malicioso
-- Usar la Aplicación para fines comerciales sin autorización
-- Sobrecargar o interferir con la infraestructura de la Aplicación
-
-## 5. Contenido y Datos
-
-### 5.1 Sus Datos
-- Usted mantiene la propiedad de todos sus datos financieros
-- Sus datos se almacenan localmente en su dispositivo
-- Es responsable de hacer respaldos de sus datos importantes
-- Puede exportar sus datos en cualquier momento
-
-### 5.2 Precisión de Datos
-- Es responsable de la precisión de los datos que ingresa
-- La Aplicación proporciona herramientas, pero no garantiza la exactitud de cálculos si los datos de entrada son incorrectos
-- Debe verificar regularmente sus datos y reportes
-
-### 5.3 Respaldo de Datos
-- Recomendamos encarecidamente realizar respaldos regulares
-- No somos responsables por la pérdida de datos debido a fallas del dispositivo, eliminación accidental o otros factores
-
-## 6. Privacidad y Seguridad
-
-### 6.1 Política de Privacidad
-Su privacidad es importante para nosotros. Consulte nuestra Política de Privacidad para entender cómo recopilamos, usamos y protegemos su información.
-
-### 6.2 Seguridad
-- Implementamos medidas de seguridad razonables
-- Usted es responsable de mantener seguro su dispositivo
-- Debe reportar inmediatamente cualquier uso no autorizado de su cuenta
-
-## 7. Propiedad Intelectual
-
-### 7.1 Derechos del Desarrollador
-- La Aplicación y todo su contenido son propiedad del desarrollador
-- Todos los derechos de autor, marcas comerciales y otros derechos de propiedad intelectual están reservados
-- Se le otorga una licencia limitada, no exclusiva y revocable para usar la Aplicación
-
-### 7.2 Marcas Comerciales
-- "Billeteo" y todos los logos relacionados son marcas comerciales del desarrollador
-- No puede usar nuestras marcas comerciales sin permiso escrito
-
-## 8. Funcionalidades Futuras
-
-### 8.1 Actualizaciones
-- Podemos agregar, modificar o eliminar funcionalidades en futuras actualizaciones
-- Las nuevas funcionalidades estarán sujetas a estos Términos
-- Nos reservamos el derecho de descontinuar funcionalidades con previo aviso
-
-### 8.2 Publicidad (Planificada)
-- Implementaremos publicidad relevante en futuras versiones
-- Los anuncios serán claramente identificados como tal
-- Actualizaremos estos términos antes de implementar publicidad
-
-### 8.3 Servicios Premium (Futuro)
-- Podemos ofrecer funcionalidades premium de pago
-- Los términos específicos se proporcionarán al momento de la implementación
-
-## 9. Limitación de Responsabilidad
-
-### 9.1 Uso bajo su Propio Riesgo
-- La Aplicación se proporciona "tal como está" y "según disponibilidad"
-- No garantizamos que la Aplicación esté libre de errores o interrupciones
-- Usted usa la Aplicación bajo su propio riesgo
-
-### 9.2 Limitaciones
-- No somos responsables por decisiones financieras basadas en la información de la Aplicación
-- No somos responsables por pérdidas financieras o daños indirectos
-- Nuestra responsabilidad total no excederá el monto pagado por la Aplicación (si aplica)
-
-### 9.3 Exclusiones
-- No garantizamos la precisión de cálculos si los datos de entrada son incorrectos
-- No somos responsables por problemas causados por el mal uso de la Aplicación
-- No garantizamos compatibilidad con todas las versiones de dispositivos o sistemas operativos
-
-## 10. Indemnización
-
-Usted acepta indemnizar y eximir de responsabilidad al desarrollador por cualquier reclamo, pérdida o daño que surja de:
-- Su uso de la Aplicación
-- Su violación de estos Términos
-- Su violación de derechos de terceros
-- Su uso indebido de la información proporcionada por la Aplicación
-
-## 11. Terminación
-
-### 11.1 Terminación por su Parte
-- Puede dejar de usar la Aplicación en cualquier momento
-- Puede eliminar su cuenta y datos asociados
-- La terminación no afecta los derechos y obligaciones previos
-
-### 11.2 Terminación por Nuestra Parte
-Podemos terminar o suspender su acceso si:
-- Viola estos Términos de Servicio
-- Usa la Aplicación de manera fraudulenta o ilegal
-- No cumple con las políticas de las tiendas de aplicaciones
-
-### 11.3 Efectos de la Terminación
-- Perderá acceso a funcionalidades en línea (si las hay)
-- Sus datos locales permanecerán en su dispositivo
-- Las disposiciones que por su naturaleza deben sobrevivir, continuarán vigentes
-
-## 12. Modificaciones
-
-### 12.1 Cambios a los Términos
-- Podemos modificar estos Términos ocasionalmente
-- Le notificaremos sobre cambios significativos mediante la Aplicación o correo electrónico
-- El uso continuado después de los cambios constituye aceptación
-
-### 12.2 Cambios a la Aplicación
-- Podemos actualizar, modificar o descontinuar funcionalidades
-- Haremos esfuerzos razonables para notificar cambios importantes
-- No garantizamos que todas las funcionalidades estarán disponibles permanentemente
-
-## 13. Ley Aplicable y Jurisdicción
-
-### 13.1 Ley Aplicable
-Estos Términos se rigen por las leyes de México, sin considerar conflictos de principios legales.
-
-### 13.2 Resolución de Disputas
-- Intentaremos resolver disputas de manera amigable
-- Las disputas no resueltas se someterán a los tribunales competentes de México
-- Para usuarios de la UE: estos términos no afectan sus derechos como consumidor
-
-## 14. Disposiciones Generales
-
-### 14.1 Divisibilidad
-Si alguna disposición de estos Términos es inválida o inaplicable, las disposiciones restantes permanecerán en vigor.
-
-### 14.2 Acuerdo Completo
-Estos Términos, junto con la Política de Privacidad, constituyen el acuerdo completo entre usted y nosotros.
-
-### 14.3 Renuncia
-La falta de ejercicio de cualquier derecho no constituye una renuncia a ese derecho.
-
-### 14.4 Asignación
-No puede transferir estos Términos sin nuestro consentimiento. Podemos transferir nuestros derechos y obligaciones.
-
-## 15. Contacto
-
-Para preguntas sobre estos Términos de Servicio:
-
-**Email:** support@billeteo.com  
-**Ubicación:** México
-
-Responderemos a consultas dentro de 5 días hábiles.
-
-## 16. Reconocimientos
-
-### 16.1 Tecnologías de Terceros
-La Aplicación utiliza las siguientes tecnologías de terceros:
-- Flutter (Google)
-- Firebase (Google)
-- Syncfusion Charts
-- Otras bibliotecas de código abierto listadas en la aplicación
-
-### 16.2 Tiendas de Aplicaciones
-Su uso de la Aplicación también está sujeto a los términos de la tienda de aplicaciones desde donde la descargó (Google Play Store, etc.).
+**Aplicación:** Trazo  
+**Desarrollador:** Omar Trejo  
+**Última actualización:** 23 de noviembre de 2025  
+**Versión:** 1.0
 
 ---
 
-**Última actualización:** [FECHA]  
-**Versión:** 1.0
+## 1. Aceptación de los Términos
+Al descargar, instalar o utilizar la aplicación móvil **Trazo** (en adelante, "la Aplicación" o "el Servicio"), usted ("el Usuario") acepta expresamente y sin reservas estar legalmente vinculado por los presentes Términos y Condiciones. Si no está de acuerdo con alguno de estos términos, debe abstenerse de utilizar el servicio y proceder a desinstalar la aplicación de inmediato.
 
-Al usar Billeteo, usted reconoce que ha leído, entendido y acepta estar sujeto a estos Términos de Servicio.
+**Entidad Responsable:**
+* **Desarrollador:** Omar Trejo
+* **Contacto:** trazoappsupp@gmail.com
+
+## 2. Descripción del Servicio
+Trazo es una herramienta de gestión financiera personal. La aplicación opera bajo un modelo de arquitectura híbrida:
+1.  **Datos Financieros:** Se almacenan localmente en el dispositivo del usuario (base de datos SQLite) para garantizar la privacidad.
+2.  **Autenticación y Perfil:** Se gestionan en la nube a través de Google Firebase para permitir el acceso seguro.
+
+## 3. Seguridad de los Datos y Responsabilidad de Respaldo (CLÁUSULA CRÍTICA)
+
+**LEA ESTO CUIDADOSAMENTE: USTED ES EL ÚNICO RESPONSABLE DE SUS DATOS.**
+
+### 3.1 Almacenamiento Local
+Trazo **NO** es un servicio de almacenamiento en la nube (Cloud Storage) para sus registros financieros. Todas sus transacciones, categorías, presupuestos y notas se guardan exclusivamente en la memoria interna de su dispositivo. **El Desarrollador no tiene acceso, no custodia y no puede visualizar ni recuperar su información financiera.**
+
+### 3.2 Pérdida de Información
+El Desarrollador **se exime de toda responsabilidad** por la pérdida parcial o total de datos causada por:
+* Desinstalación de la aplicación (intencional o accidental).
+* Robo, extravío o daño físico del dispositivo móvil.
+* Restablecimiento de fábrica del dispositivo.
+* Errores del sistema operativo (Android/iOS) o fallos de actualización.
+* Falta de realización de copias de seguridad (Backups) por parte del usuario.
+* Errores al momento de instalar nuevas actualizaciones de la aplicación
+
+## 4. Exención de Garantías y Limitación de Responsabilidad (DISCLAIMER)
+
+**LA APLICACIÓN SE PROPORCIONA "TAL CUAL" (AS-IS) Y "SEGÚN DISPONIBILIDAD".**
+
+### 4.1 No es Asesoría Financiera
+La Aplicación es una herramienta técnica de organización. El Desarrollador **no proporciona servicios de asesoría financiera, contable, fiscal ni de inversión**. Los reportes y gráficos generados son meramente informativos. Usted no debe tomar decisiones financieras críticas basándose únicamente en la Aplicación sin verificar la información por medios independientes.
+
+### 4.2 Errores de Software
+Aunque nos esforzamos por garantizar la precisión matemática y técnica, el software no está libre de errores ("bugs"). El Desarrollador no garantiza que los cálculos sean 100% exactos en todas las circunstancias ni que el servicio sea ininterrumpido.
+
+### 4.3 Límite de Responsabilidad
+En la medida máxima permitida por la legislación aplicable en México, **Omar Trejo no será responsable** ante usted ni ante terceros por daños directos, indirectos, incidentales, especiales, punitivos o consecuentes (incluyendo, sin limitación, pérdida de beneficios, pérdida de datos o interrupción de negocios) que surjan del uso o la imposibilidad de uso de la Aplicación.
+
+## 5. Uso Aceptable y Restricciones
+Usted se compromete a utilizar la Aplicación exclusivamente para fines legales y personales. Queda estrictamente prohibido:
+* Realizar ingeniería inversa, descompilar o intentar extraer el código fuente de la Aplicación.
+* Utilizar la Aplicación para actividades fraudulentas o ilícitas.
+* Intentar vulnerar la seguridad de los servidores de autenticación.
+* Comercializar, rentar o sublicenciar la Aplicación sin autorización escrita.
+
+## 6. Propiedad Intelectual
+
+### 6.1 Derechos de Propiedad Intelectual
+El código fuente, el diseño visual, la interfaz de usuario y los logotipos de la Aplicación son obras intelectuales cuya titularidad pertenece a **Omar Trejo**. Estos elementos están protegidos por las leyes de propiedad intelectual aplicables. Queda prohibida su reproducción total o parcial sin autorización expresa.
+
+### 6.2 Componentes de Terceros
+La Aplicación incorpora librerías y tecnologías de código abierto (incluyendo, pero no limitado a, Flutter, Firebase y bibliotecas de gráficos) que pertenecen a sus respectivos autores. El uso de estos componentes se rige por sus propias licencias (Apache 2.0, MIT, BSD, entre otras), las cuales respetamos y reconocemos.
+
+## 7. Actualizaciones y Modificaciones
+Nos reservamos el derecho de modificar, suspender o descontinuar cualquier aspecto del Servicio en cualquier momento. Asimismo, podemos actualizar estos Términos periódicamente. El uso continuado de la Aplicación después de cualquier cambio constituye su aceptación de los nuevos términos.
+
+**Publicidad:** Actualmente el servicio es libre de anuncios. Nos reservamos el derecho de incluir publicidad de terceros en futuras versiones.
+
+## 8. Terminación del Servicio
+Podemos suspender o eliminar su acceso a los servicios en la nube (cuenta de usuario) de manera inmediata y sin previo aviso si determinamos, a nuestra entera discreción, que usted ha violado estos Términos o ha hecho un uso indebido de la Aplicación.
+
+## 9. Ley Aplicable y Jurisdicción
+Estos Términos se regirán e interpretarán de acuerdo con las leyes federales de los **Estados Unidos Mexicanos**.
+Para la resolución de cualquier controversia o disputa legal relacionada con este Servicio, las partes renuncian expresamente a cualquier otro fuero que pudiera corresponderles por razón de sus domicilios presentes o futuros, y aceptan someterse a la jurisdicción exclusiva de los tribunales competentes en la ciudad de **Xalapa, Veracruz, México**.
+
+---
+
+**Contacto:**
+Si tiene preguntas sobre estos Términos, puede contactarnos en: trazoappsupp@gmail.com
