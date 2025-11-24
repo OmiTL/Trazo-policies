@@ -1,142 +1,119 @@
-# Política de Privacidad - Billeteo
+# Política de Privacidad
 
-**Fecha de última actualización:** [FECHA]
-
-## 1. Información General
-
-Esta Política de Privacidad describe cómo Billeteo ("nosotros", "nuestro" o "la aplicación") recopila, usa y protege su información cuando utiliza nuestra aplicación móvil de gestión financiera personal.
-
-**Desarrollador:** [NOMBRE_DESARROLLADOR]  
-**Ubicación:** México  
-**Contacto:** support@billeteo.com
-
-## 2. Información que Recopilamos
-
-### 2.1 Información de Cuenta
-- **Datos de Google Sign-In:** Nombre, dirección de correo electrónico y foto de perfil cuando utiliza Google para iniciar sesión
-- **Información de perfil:** Nombre de usuario y foto de perfil que usted proporciona
-
-### 2.2 Datos Financieros
-- **Almacenamiento local:** Todas sus transacciones, cuentas, categorías y datos financieros se almacenan únicamente en su dispositivo
-- **No compartimos datos financieros:** Sus datos financieros nunca se envían a nuestros servidores ni se comparten con terceros
-
-### 2.3 Información Técnica
-- **Firebase Analytics:** Datos de uso anónimos para mejorar la aplicación (páginas visitadas, funciones utilizadas, tiempo de uso)
-- **Firebase Crashlytics:** Informes de errores técnicos para mejorar la estabilidad de la aplicación
-- **Información del dispositivo:** Modelo, versión del sistema operativo, identificadores únicos del dispositivo
-
-### 2.4 Contenido Multimedia
-- **Fotos de perfil:** Imágenes que usted selecciona de su galería para usar como foto de perfil
-- **Permisos de galería:** Solo accedemos a las imágenes que usted selecciona específicamente
-
-## 3. Cómo Utilizamos su Información
-
-### 3.1 Propósitos Principales
-- Proporcionar y mantener la funcionalidad de la aplicación
-- Autenticar su identidad y mantener su sesión
-- Personalizar su experiencia de usuario
-- Mejorar la aplicación mediante análisis de uso anónimo
-
-### 3.2 Análisis y Mejoras
-- Analizar patrones de uso para mejorar funcionalidades
-- Identificar y corregir errores técnicos
-- Desarrollar nuevas características basadas en el uso
-
-### 3.3 Comunicaciones (Futuro)
-- Enviar notificaciones push sobre actualizaciones importantes (cuando se implemente)
-- Comunicar cambios en términos y políticas
-
-## 4. Compartir Información
-
-### 4.1 No Vendemos Datos
-Nunca vendemos, alquilamos o comercializamos su información personal a terceros.
-
-### 4.2 Servicios de Terceros
-- **Google Firebase:** Para autenticación, análisis y informes de errores
-- **Google Sign-In:** Para facilitar el inicio de sesión
-- Estos servicios tienen sus propias políticas de privacidad
-
-### 4.3 Requisitos Legales
-Podemos divulgar información si es requerido por ley o para proteger nuestros derechos legales.
-
-## 5. Seguridad de Datos
-
-### 5.1 Medidas de Protección
-- Cifrado de datos en tránsito y en reposo
-- Autenticación segura mediante Google
-- Almacenamiento local protegido en su dispositivo
-- Acceso limitado a datos personales
-
-### 5.2 Datos Financieros
-- Sus datos financieros permanecen únicamente en su dispositivo
-- Utilizamos SQLite con cifrado para almacenamiento local
-- No tenemos acceso a sus transacciones o balances
-
-## 6. Sus Derechos y Controles
-
-### 6.1 Acceso y Control
-- **Exportar datos:** Puede exportar todos sus datos en cualquier momento
-- **Eliminar cuenta:** Puede eliminar su cuenta y datos asociados
-- **Modificar información:** Puede actualizar su perfil en cualquier momento
-
-### 6.2 Derechos GDPR (Usuarios de la UE)
-- Derecho de acceso a sus datos personales
-- Derecho de rectificación de datos incorrectos
-- Derecho de supresión ("derecho al olvido")
-- Derecho de portabilidad de datos
-- Derecho de oposición al procesamiento
-
-### 6.3 Derechos CCPA (Usuarios de California)
-- Derecho a saber qué información personal se recopila
-- Derecho a eliminar información personal
-- Derecho a optar por no participar en la venta de datos personales
-- Derecho a no ser discriminado por ejercer sus derechos
-
-## 7. Retención de Datos
-
-- **Datos de cuenta:** Mantenidos mientras su cuenta esté activa
-- **Datos financieros:** Almacenados localmente hasta que usted los elimine
-- **Datos analíticos:** Conservados de forma anónima por hasta 26 meses
-- **Datos de errores:** Eliminados automáticamente después de 90 días
-
-## 8. Menores de Edad
-
-Billeteo no está dirigido a menores de 13 años. No recopilamos intencionalmente información personal de menores de 13 años. Si descubrimos que hemos recopilado información de un menor de 13 años, la eliminaremos inmediatamente.
-
-## 9. Funcionalidades Futuras
-
-### 9.1 Publicidad (Planificada)
-- Implementaremos publicidad relevante y no intrusiva
-- Los anuncios serán proporcionados por redes publicitarias de terceros
-- Actualizaremos esta política antes de implementar publicidad
-
-### 9.2 Notificaciones Push (Planificada)
-- Enviaremos notificaciones sobre recordatorios financieros
-- Podrá controlar completamente qué notificaciones recibir
-- Todas las notificaciones serán opcionales
-
-## 10. Transferencias Internacionales
-
-Sus datos pueden ser transferidos y procesados en países fuera de México, incluyendo Estados Unidos (servidores de Google/Firebase). Nos aseguramos de que estas transferencias cumplan con las leyes de protección de datos aplicables.
-
-## 11. Cambios a esta Política
-
-Podemos actualizar esta Política de Privacidad ocasionalmente. Le notificaremos sobre cambios significativos mediante:
-- Notificación en la aplicación
-- Correo electrónico (si proporcionó uno)
-- Actualización de la fecha en la parte superior de esta política
-
-## 12. Contacto
-
-Si tiene preguntas sobre esta Política de Privacidad o sobre cómo manejamos sus datos, contáctenos:
-
-**Email:** support@billeteo.com  
-**Ubicación:** México
-
-Para consultas relacionadas con GDPR (usuarios de la UE), responderemos dentro de 30 días.
-Para consultas relacionadas con CCPA (usuarios de California), responderemos dentro de 45 días.
+**Aplicación:** Trazo  
+**Desarrollador:** Omar Trejo  
+**Última actualización:** 23 de noviembre de 2025  
+**Versión:** 1.0
 
 ---
 
-**Última actualización:** [FECHA]  
-**Versión:** 1.0
+## 1. Introducción
+
+Trazo ("nosotros", "nuestro", "la aplicación" o "el servicio") es una aplicación móvil de gestión financiera personal desarrollada en México. Esta Política de Privacidad tiene como objetivo informarle de manera clara y transparente cómo recopilamos, utilizamos, almacenamos y protegemos su información personal.
+
+Al descargar, instalar o utilizar Trazo, usted acepta las prácticas descritas en este documento.
+
+**Responsable del Tratamiento de Datos:**
+* **Responsable:** Omar Trejo
+* **Ubicación:** Veracruz, México
+* **Contacto Legal y Soporte:** trazoappsupp@gmail.com
+
+
+---
+
+## 2. Información que Recopilamos
+
+### 2.1 Datos Financieros (Almacenamiento Local)
+**Su privacidad financiera es nuestra prioridad.**
+Los siguientes datos se registran y almacenan **exclusivamente en su dispositivo móvil**:
+
+* Transacciones (ingresos, gastos, transferencias).
+* Saldos y nombres de cuentas.
+* Presupuestos y metas de ahorro.
+* Notas personales.
+
+**Estos datos NO se transmiten, almacenan ni procesan en nuestros servidores.** Usted mantiene la soberanía total sobre su información financiera.
+
+### 2.2 Datos de Cuenta (Nube)
+Para permitir la funcionalidad de inicio de sesión y sincronización de perfil, utilizamos **Google Firebase Auth**. Cuando usted inicia sesión con Google, recopilamos:
+* Nombre completo.
+* Dirección de correo electrónico.
+* Foto de perfil (URL pública de Google).
+
+### 2.3 Información Técnica y de Uso
+Para mejorar la estabilidad de la aplicación, recopilamos datos técnicos anónimos a través de servicios de terceros:
+* **Dispositivo:** Modelo, fabricante, versión de sistema operativo, idioma.
+* **Uso:** Pantallas visitadas, tiempo de sesión, interacciones con botones.
+* **Errores (Crashes):** Registros de fallos técnicos para corrección de bugs.
+
+---
+
+## 3. Finalidad del Tratamiento
+
+Utilizamos la información estrictamente para:
+
+1.  **Proveer el Servicio:** Autenticar su usuario y permitir la gestión de sus finanzas locales.
+2.  **Mejora Continua:** Detectar errores (bugs) y entender qué funciones son más valoradas por los usuarios.
+3.  **Seguridad:** Prevenir accesos no autorizados a su cuenta de perfil.
+
+---
+
+## 4. Servicios de Terceros y SDKs
+
+Trazo utiliza servicios de infraestructura de confianza. Al usar la app, sus datos pueden ser procesados por:
+
+* **Google Firebase (Auth, Analytics, Crashlytics):**
+    * Proveedor: Google LLC.
+    * Finalidad: Autenticación, analítica y reportes de errores.
+    * [Política de Privacidad de Google](https://policies.google.com/privacy)
+
+* **Google Play Services:**
+    * Componentes del sistema operativo necesarios para el funcionamiento en Android.
+
+**No vendemos, alquilamos ni compartimos su información personal con anunciantes ni terceros ajenos a la infraestructura técnica necesaria.**
+
+---
+
+## 5. Seguridad y Almacenamiento
+
+### 5.1 Arquitectura de Seguridad
+* **Datos Financieros (Local):** Se almacenan utilizando bases de datos **SQLite** dentro del "App Sandbox" (entorno aislado) de Android. Esto impide que otras aplicaciones malintencionadas lean sus datos financieros.
+* **Datos de Cuenta (Nube):** Se gestionan a través de la infraestructura segura de Google Firebase.
+* **Tránsito:** Toda comunicación con servidores externos se realiza mediante protocolos encriptados **HTTPS/TLS**.
+
+---
+
+## 6. Eliminación de Datos y Derechos del Usuario
+
+### 6.1 Eliminación de Cuenta (Requisito Google Play)
+Usted tiene derecho a eliminar su cuenta y todos los datos asociados en cualquier momento.
+
+1.  **Desde la App:** Vaya a *Configuración > Perfil > Eliminar Cuenta*.
+2.  **Vía Web (Sin reinstalar la app):** Si ya no tiene acceso a la aplicación, puede solicitar la baja de sus datos completando el siguiente formulario oficial:
+    https://forms.gle/kvz9Q3NQg8VHvqEJ7
+
+*Al eliminar su cuenta, se borran sus datos de identidad en nuestros servidores. Los datos financieros locales se eliminan al desinstalar la aplicación.*
+
+### 6.2 Derechos ARCO (México)
+Conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, usted puede ejercer sus derechos de Acceso, Rectificación, Cancelación y Oposición enviando una solicitud a: **trazoappsupp@gmail.com**.
+
+---
+
+## 7. Privacidad de Menores
+Trazo no está diseñada ni dirigida a menores de 13 años. No recopilamos intencionalmente datos de menores. Si detectamos una cuenta creada por un menor sin consentimiento parental, procederemos a eliminarla de inmediato.
+
+---
+
+## 8. Publicidad
+Actualmente, **Trazo no muestra publicidad de terceros**.
+Nos reservamos el derecho de incluir publicidad en versiones futuras. De hacerlo, actualizaremos esta política para informar sobre los proveedores de anuncios y el manejo de datos correspondiente.
+
+---
+
+## 9. Cambios a la Política
+Podemos actualizar esta política para reflejar cambios en nuestra aplicación o requisitos legales. La versión más reciente siempre estará disponible en este enlace. El uso continuado de la aplicación implica la aceptación de dichos cambios.
+
+---
+
+**Contacto:**
+Si tiene dudas sobre esta política, contáctenos en: **trazoappsupp@gmail.com**
