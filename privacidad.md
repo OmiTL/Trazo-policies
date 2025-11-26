@@ -1,8 +1,11 @@
 # Política de Privacidad
 
 **Aplicación:** Trazo
+
 **Desarrollador:** DataSaints (Omar Trejo)
+
 **Última actualización:** 23 de noviembre de 2025
+
 **Versión:** 1.0
 
 ---
@@ -111,3 +114,4 @@ Nos reservamos el derecho de incluir publicidad en versiones futuras. De hacerlo
 
 **Contacto:**
 Si tiene dudas sobre esta política, contáctenos en: **trazoappsupp@gmail.com**
+
